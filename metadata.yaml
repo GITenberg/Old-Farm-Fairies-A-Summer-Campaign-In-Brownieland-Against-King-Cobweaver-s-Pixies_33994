@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36629'
     url: http://www.gutenberg.org/2009/agents/36629
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33994#Old-Farm-Fairies-A-Summer-Campaign-In-Brownieland-Against-King-Cobweaver-s-Pixies
 gutenberg_issued: '2010-09-25'
 gutenberg_type: Text
 identifiers:
