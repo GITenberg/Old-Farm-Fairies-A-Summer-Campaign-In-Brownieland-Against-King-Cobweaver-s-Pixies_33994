@@ -1,0 +1,30 @@
+_repo: Old-Farm-Fairies-A-Summer-Campaign-In-Brownieland-Against-King-Cobweaver-s-Pixies_33994
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33994-h/images/cover.jpg
+creator:
+  author:
+    agent_name: McCook, Henry C. (Henry Christopher)
+    alias: McCook, Henry Christopher
+    birthdate: 1837
+    deathdate: 1911
+    gutenberg_agent_id: '36629'
+    url: http://www.gutenberg.org/2009/agents/36629
+description: ''
+gutenberg_issued: '2010-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33994'
+  lccn: '12036412'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Insects -- Juvenile literature'
+- !lcc 'QH'
+- !lcsh 'Spiders -- Juvenile literature'
+title: 'Old Farm Fairies: A Summer Campaign In Brownieland Against King Cobweaver''s
+  Pixies'
+url: http://www.gutenberg.org/ebooks/33994
